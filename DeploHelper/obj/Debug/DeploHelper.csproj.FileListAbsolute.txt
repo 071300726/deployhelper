@@ -1,0 +1,9 @@
+c:\users\zhanghailiang\documents\visual studio 2013\Projects\DeploHelper\DeploHelper\bin\Debug\DeploHelper.exe.config
+c:\users\zhanghailiang\documents\visual studio 2013\Projects\DeploHelper\DeploHelper\bin\Debug\DeploHelper.exe
+c:\users\zhanghailiang\documents\visual studio 2013\Projects\DeploHelper\DeploHelper\bin\Debug\DeploHelper.pdb
+c:\users\zhanghailiang\documents\visual studio 2013\Projects\DeploHelper\DeploHelper\obj\Debug\DeploHelper.csprojResolveAssemblyReference.cache
+c:\users\zhanghailiang\documents\visual studio 2013\Projects\DeploHelper\DeploHelper\obj\Debug\DeploHelper.Form1.resources
+c:\users\zhanghailiang\documents\visual studio 2013\Projects\DeploHelper\DeploHelper\obj\Debug\DeploHelper.Properties.Resources.resources
+c:\users\zhanghailiang\documents\visual studio 2013\Projects\DeploHelper\DeploHelper\obj\Debug\DeploHelper.csproj.GenerateResource.Cache
+c:\users\zhanghailiang\documents\visual studio 2013\Projects\DeploHelper\DeploHelper\obj\Debug\DeploHelper.exe
+c:\users\zhanghailiang\documents\visual studio 2013\Projects\DeploHelper\DeploHelper\obj\Debug\DeploHelper.pdb
