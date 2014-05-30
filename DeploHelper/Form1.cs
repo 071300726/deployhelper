@@ -177,7 +177,7 @@ namespace DeployHelper
         {
             try
             {
-                return File.ReadAllText("config.txt");"
+                return File.ReadAllText("config.txt");
             }
             catch(Exception ex)
             {
