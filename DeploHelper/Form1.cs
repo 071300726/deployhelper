@@ -181,7 +181,7 @@ namespace DeployHelper
             }
             catch(Exception ex)
             {
-                return string.Empty;
+                return string.Empty;"
             }
         }
 
